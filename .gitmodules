@@ -1,0 +1,3 @@
+[submodule "themes/zola-no-style-please"]
+	path = themes/zola-no-style-please
+	url = https://git.sr.ht/~gumxcc/zola-no-style-please
